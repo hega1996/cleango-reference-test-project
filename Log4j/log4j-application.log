@@ -1,0 +1,6 @@
+2023-12-07 18:21:24 INFO  StepDefinitions:63 - the Site is opened succesfully
+2023-12-07 18:21:27 INFO  StepDefinitions:90 - The user is navigated to prices page
+2023-12-07 18:21:28 INFO  StepDefinitions:96 - The car brand is selected
+2023-12-07 18:21:29 INFO  StepDefinitions:102 - The car model is selected
+2023-12-07 18:21:29 INFO  StepDefinitions:108 - The Go Search! button is clicked
+2023-12-07 18:21:40 INFO  StepDefinitions:46 - The '2. The search for car brand and model gives back the correct result' scenario is failed.
